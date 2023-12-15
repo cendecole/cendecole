@@ -1,3 +1,4 @@
-### Hello there 👋
-
-i'm Alex, student of SPBSTU. I'm here for trying learh a programm language Python. If you want help me for this - sending me a letter for sahasa2014@rambler.ru.
+# Hi there, I'm [Alex](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### student of SPBSTU from Russia, Saint-Petersburg 🇷🇺
+###Trying to learn Python
+###email:isixone_onelove@mail.ru
